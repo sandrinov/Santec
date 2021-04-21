@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=DESKTOP-N5TF96M;Database=Northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir D:\Users\sandr\source\repos\Santec_Solution\ScaffoldSample\Data\EF -force
